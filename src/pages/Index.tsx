@@ -398,9 +398,7 @@ const Index = () => {
                 <h3 className="text-xl font-bold text-forest-800 mb-2">
                   Телефон
                 </h3>
-                <p className="text-forest-600 text-lg font-semibold mb-1">
-                  +7 (495) 123-45-67
-                </p>
+                <p className="text-forest-600 text-lg font-semibold mb-1">+7 (933) 550-43-21</p>
                 <p className="text-forest-500 text-sm">
                   Ежедневно с 8:00 до 20:00
                 </p>
