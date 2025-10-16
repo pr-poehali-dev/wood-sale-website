@@ -429,9 +429,7 @@ const Index = () => {
                 <h3 className="text-xl font-bold text-forest-800 mb-2">
                   Email
                 </h3>
-                <p className="text-forest-600 text-lg font-semibold mb-1">
-                  info@ekoles.ru
-                </p>
+                <p className="text-forest-600 text-lg font-semibold mb-1">chernavkarudenkoa1998@bk.ru</p>
                 <p className="text-forest-500 text-sm">
                   Ответим в течение часа
                 </p>
