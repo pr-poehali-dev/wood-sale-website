@@ -415,7 +415,7 @@ const Index = () => {
                   Адрес
                 </h3>
                 <p className="text-forest-600 mb-1">Новосибирск, Вилюйская ул., д. 7</p>
-                <p className="text-forest-600 mb-1">ул. Лесная, д. 15</p>
+                <p className="text-forest-600 mb-1"></p>
                 <p className="text-forest-500 text-sm">Склад и офис продаж</p>
               </CardContent>
             </Card>
