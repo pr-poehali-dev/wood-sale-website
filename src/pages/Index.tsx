@@ -445,7 +445,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Icon name="TreePine" className="h-6 w-6" />
-              <span className="text-xl font-bold">ЭкоЛес</span>
+              <span className="text-xl font-bold">Форест-Сибирь ОГРН 1205400005997</span>
             </div>
             <div className="text-forest-300 text-sm">
               © 2024 ЭкоЛес. Все права защищены.
